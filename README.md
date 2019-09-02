@@ -1,0 +1,3 @@
+# MongDB_Basic_onNode
+MongoDB基础_在Node中应用
+有基础的学习MongoDB，为了更好的扩展基础，进一步学习Node组件mongoose的应用，由于个人笔记是world版本不宜上传，就没有加载，上传分享的全是代码部分
